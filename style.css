@@ -343,7 +343,7 @@ footer {
     width: 100%;
     height: auto;
     margin: 0;
-    background-color: var(--color-secundario);
+    background-color: var(--color-terciario);
     color: var(--color-principal);
     padding: 40px 0;
     text-align: center;
